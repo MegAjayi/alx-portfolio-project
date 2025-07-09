@@ -210,6 +210,35 @@ a {
   font-size: 30px;
 }
 
+#search {
+  text-align: center;
+  padding: 50px;
+  background-color: #f3f3f3;
+}
+
+#search input {
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+}
+
+#search button {
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#results {
+  margin-top: 20px;
+}
+
+#results img {
+  max-width: 200px;
+  margin: 10px auto;
+}
+
 footer {
   height: 300px;
   width: 100%;
